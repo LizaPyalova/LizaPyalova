@@ -18,3 +18,10 @@
 - [Лабараторная №3](https://github.com/LizaPyalova/LabNumber3)
 - [Лабараторная №4](https://github.com/LizaPyalova/laba4_comments/tree/master)
 
+💗 **Algorithm**:
+- [Деревья поиска](https://github.com/LizaPyalova/SearchTree)
+- [Бинарный поиск](https://github.com/LizaPyalova/DynamicProgramming)
+- [Динамическое программирование]()
+- [Структуры данных и графы]()
+- [Алгоритмы на графах]()
+
