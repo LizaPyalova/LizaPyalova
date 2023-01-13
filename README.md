@@ -3,7 +3,7 @@
 💗 **Operating Systems Labs**:
 - [✨](https://github.com/LizaPyalova/Operation_Systems)
 
-💗 [**Industrial Programming**]:
+💗 **Industrial Programming**:
 - [Коллоквиум №1](https://github.com/LizaPyalova/kollokVIUM)
 - [Коллоквиум №2](https://github.com/LizaPyalova/AbsctractFactoryKollokviummm)
 - [Коллоквиум №3 (Е.В. Пазюра)](https://github.com/LizaPyalova/ShopShoes)
