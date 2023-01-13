@@ -1,4 +1,4 @@
-### 💗 Третий Семестр 💗
+### ✨ Третий Семестр ✨
 
 💗 [**Operating Systems Labs**](https://github.com/LizaPyalova/Operation_Systems)
 
