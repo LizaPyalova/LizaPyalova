@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
 </div>
 <div id="header" align="center">
-  <котик старался/>
+  котик старался, не спал днями и ночами, и вот что вышло ...
 </div>
 
 ### ✨ Третий Семестр ✨
