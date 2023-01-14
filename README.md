@@ -3,6 +3,7 @@
 </div>
 <div id="header" align="center">
   котик старался, не спал днями и ночами, и вот что вышло ...
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?LizaPyalova=vn7n24fzkq&theme=github_dark"/>
 </div>
 
 ### ✨ Третий Семестр ✨
