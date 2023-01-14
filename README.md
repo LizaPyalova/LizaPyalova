@@ -1,4 +1,6 @@
-# ✨ Третий Семестр ✨
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?LizaPyalova=vn7n24fzkq&theme=github_dark)
+
+### ✨ Третий Семестр ✨
 
 💗 **Operating Systems Labs**:
 - [✨](https://github.com/LizaPyalova/Operation_Systems)
