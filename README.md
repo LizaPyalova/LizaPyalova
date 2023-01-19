@@ -13,6 +13,7 @@
 - [Лабараторные №1-3](https://github.com/LizaPyalova/Operation_Systems)
 
 💗 **Industrial Programming**:
+- [Сквозная задача](https://github.com/LizaPyalova/Skvoznaya_zadacha)
 - [Коллоквиум №1](https://github.com/LizaPyalova/kollokVIUM)
 - [Коллоквиум №2](https://github.com/LizaPyalova/AbsctractFactoryKollokviummm)
 - [Коллоквиум №3 (Е.В. Пазюра)](https://github.com/LizaPyalova/ShopShoes)
